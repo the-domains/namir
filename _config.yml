@@ -1,0 +1,28 @@
+name: namir
+favicon: null
+layout_spectrum: 0.6149591330904514
+typography_spectrum: 0.6775412138085812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1434560208581388
+  lightness: 0.5516146020963788
+  saturation: 0.4816601595375687
+  rhythmicContrast: 0.46236925967969
+purpose: []
